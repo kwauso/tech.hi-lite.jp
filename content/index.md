@@ -1,5 +1,5 @@
 ---
-title: Welcome to tech.hi-lite.jp
+title: "Never Trust, Always Verify"
 ---
 
 ![ワンワン](./Internet_dog.jpg)
